@@ -1,6 +1,16 @@
-<h1 align="center">Hello 👋, I'm Sagar </h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h1 align="left">Hello, I'm Sagar 👋 </h1>
+
 <h3 align="left">Here's a little bit about myself...</h3>
+😄 My pronouns are: He/His/Him</br>
+ I’m currently working as a data engineer at Cloudage and building my career</br>
+ Working on several Big Data Technologies like Apache Spark, Hadoop, and Kafka</br>
+ Hands-on experience on AWS services like AWS EC2, S3, Glue, Athena, RDS, IMA and Redshift</br>
+ Good to know Python libraries like Numpy, Pandas,etc. and SQL language</br></br>
+ 
+📝 My Certifications and Courses:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python - Coursera </br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a herf="https://www.udemy.com/certificate/UC-4b2f916e-6286-4d05-ae93-6b5a8320e0a3/" >PySpark and AWS - Udemy</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 

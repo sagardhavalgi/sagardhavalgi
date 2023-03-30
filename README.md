@@ -4,7 +4,7 @@
 😄 My pronouns are: He/His/Him</br>
  I’m currently working as a data engineer and building my career</br>
  Working on several Big Data Technologies like Apache Spark, Hadoop, and Kafka</br>
- Hands-on experience on AWS services like AWS EC2, S3, Glue, Athena, RDS, IMA and Redshift</br>
+ Hands-on experience on AWS services like AWS EC2, S3, Glue, Athena, Kinesis, EMR, RDS, IMA and Redshift</br>
  Good to know Python libraries like Numpy, Pandas,etc. and SQL language</br></br>
  
 📝 My Certifications and Courses:</br>

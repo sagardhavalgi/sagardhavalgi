@@ -8,9 +8,9 @@
  • Good to know Python libraries like Numpy, Pandas,etc. and SQL language</br>
  • Good to know Big data tools like Hadoop, Spark, Kafka, Hive, etc.</br>
  • Got a 5⭐ gold badge(Python) on Hackerrank.</br></br>
-🧑 I am currenly learning:
- • Azure Cloud (Already worked with AWS)
- • Exploring Modern data stack(Databricks, snowflake)
+🧑 I am currenly learning:</br>
+ • Azure Cloud (Already worked with AWS)</br>
+ • Exploring Modern data stack(Databricks, snowflake)</br>
 📝 My Certifications and Courses:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python - Coursera </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a herf="https://www.udemy.com/certificate/UC-4b2f916e-6286-4d05-ae93-6b5a8320e0a3/" >PySpark and AWS - Udemy</a>

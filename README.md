@@ -2,13 +2,15 @@
 
 <h3 align="left">Here's a little bit about myself...</h3>
 😄 My pronouns are: He/His/Him</br>
- I’m currently working as a data engineer and building my career</br>
- Working on several Big Data Technologies like Apache Spark, Hadoop, and Kafka</br>
- Hands-on experience on AWS services like AWS EC2, S3, Glue, Athena, Kinesis, RDS, IMA and Redshift</br>
- Good to know Python libraries like Numpy, Pandas,etc. and SQL language</br>
- Good to know Big data tools like Hadoop, Spark, Kafka, Hive, etc.</br>
- Got a 5⭐ gold badge(Python) on Hackerrank.</br></br>
- 
+ • I’m currently working as a data engineer and building my career</br>
+ • Working on several Big Data Technologies like Apache Spark, Hadoop, and Kafka</br>
+ • Hands-on experience on AWS services like AWS EC2, S3, Glue, Athena, Kinesis, RDS, IMA and Redshift</br>
+ • Good to know Python libraries like Numpy, Pandas,etc. and SQL language</br>
+ • Good to know Big data tools like Hadoop, Spark, Kafka, Hive, etc.</br>
+ • Got a 5⭐ gold badge(Python) on Hackerrank.</br></br>
+🧑 I am currenly learning:
+ • Azure Cloud (Already worked with AWS)
+ • Exploring Modern data stack(Databricks, snowflake)
 📝 My Certifications and Courses:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python - Coursera </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a herf="https://www.udemy.com/certificate/UC-4b2f916e-6286-4d05-ae93-6b5a8320e0a3/" >PySpark and AWS - Udemy</a>
